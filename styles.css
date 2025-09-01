@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+img{
+	border-radius:12px;
+	height:250px;
+}
+a{
+	text-decoration:none;
+	color:red;
+}
